@@ -1,4 +1,7 @@
 .vscode/
+.DS_Store
+
+data/deezer.png
 
 # Cache/temp files created by the codes
 cache_models/
